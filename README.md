@@ -1,16 +1,44 @@
-## 👋 Hi there, I'm Arman Qureshi 
+# 👋 Hi there, I'm Arman Qureshi!
 
-<!--
-**thearmanqureshi/thearmanqureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Web Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building intuitive, user-friendly web applications, and constantly learning about the latest technologies to enhance my skill set. This space is where I share my projects, experiments, and journey as I evolve as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills & Technologies
+
+- **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- **Backend:** Node.js, Express.js, RESTful APIs
+- **Database:** MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code
+
+---
+
+### 🌱 What I'm Learning Now
+
+I'm currently focusing on improving my JavaScript Skills.
+
+---
+
+### 💡 Future Goals
+
+- Build full-stack applications.
+- Contribute to open-source projects to collaborate with the community.
+- Master backend development.
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects or just talking about tech. Feel free to reach out!
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/thearmanqureshi/)
+- **Email:** [Your Email Address](mailto:thearmanqureshi@gmail.com)
+
+---
+
+**Thank you for visiting my GitHub profile!** 😊  
+Don't forget to check out my repositories and leave a star if you like what you see!
+
+---
