@@ -33,8 +33,8 @@ I'm currently focusing on improving my JavaScript Skills.
 
 I'm always open to collaborating on interesting projects or just talking about tech. Feel free to reach out!
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/thearmanqureshi/)
-- **Email:** [Your Email Address](mailto:thearmanqureshi@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/thearmanqureshi/)
+- **Email:** [Email Me](mailto:thearmanqureshi@gmail.com)
 
 ---
 
