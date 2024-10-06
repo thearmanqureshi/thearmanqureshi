@@ -40,5 +40,3 @@ I'm always open to collaborating on interesting projects or just talking about t
 
 **Thank you for visiting my GitHub profile!** 😊  
 Don't forget to check out my repositories and leave a star if you like what you see!
-
----
