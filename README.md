@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building intuitive, user-frie
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - **Backend:** Node.js, Express.js, RESTful APIs
 - **Database:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, Visual Studio Code
+- **Tools & Platforms:** Git, GitHub, Visual Studio Code, Wix Studio
 
 ---
 
