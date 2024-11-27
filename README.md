@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Arman Qureshi!
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&width=435&lines=Hey+there%2C+Arman+Qureshi+here+!)](https://git.io/typing-svg)
 
 **Aspiring Web Developer**
 
