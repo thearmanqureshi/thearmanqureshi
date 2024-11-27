@@ -8,5 +8,3 @@ I'm always open to collaborating on interesting projects or just talking about t
 
 - **Email:** [Email Me](mailto:thearmanqureshi@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/thearmanqureshi/)
-
----
