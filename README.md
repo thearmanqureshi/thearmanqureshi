@@ -4,7 +4,7 @@
 
 </div>
 
-<hr>
+---
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<hr style="height:1px;">
+#
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-<hr style="height:1px;">
+#
 
 <div align="center">
 
