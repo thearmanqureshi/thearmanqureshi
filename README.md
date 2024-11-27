@@ -3,9 +3,9 @@
 ---
 
 ### 📫 Let's Connect
-<a href="https://www.linkedin.com/in/thearmanqureshi" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="20">
+<a href="mailto:thearmanqureshi@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Gmail" width="20">
 </a>
 <a href="https://www.linkedin.com/in/thearmanqureshi" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="LinkedIn" width="20">
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="20">
 </a>
