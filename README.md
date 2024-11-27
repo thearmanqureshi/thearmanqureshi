@@ -3,12 +3,5 @@
 ---
 
 ### 📫 Let's Connect
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg)](https://www.linkedin.com/in/thearmanqureshi)
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/thearmanqureshi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
