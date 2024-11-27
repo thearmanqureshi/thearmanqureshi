@@ -4,7 +4,11 @@
 
 ### 📫 Let's Connect
 
-I'm always open to collaborating on interesting projects or just talking about tech. Feel free to reach out!
-
-- **Email:** [Email Me](mailto:thearmanqureshi@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/thearmanqureshi/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/thearmanqureshi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
