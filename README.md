@@ -26,7 +26,7 @@
 
 <h3>Languages</h3>
 
-<div>
+<a>
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" width="30">
 
 &nbsp;
@@ -48,7 +48,7 @@
 &nbsp;
 
 <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" width="30">
-</div>
+</a>
 
 </div>
 
@@ -58,7 +58,7 @@
 
 <h3>Softwares</h3>
 
-<div>
+<a>
 <img src="https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=png" alt="VS Code" width="30">
 
 &nbsp;
@@ -68,6 +68,6 @@
 &nbsp;
 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" width="30">
-</div>
+</a>
 
 </div>
