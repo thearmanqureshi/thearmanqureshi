@@ -3,4 +3,6 @@
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/thearmanqureshi)
+<a href="https://www.linkedin.com/in/thearmanqureshi" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20">
+</a>
