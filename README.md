@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<h3>Languages</h3>
+<h3>Languages and Tools</h3>
 
 <a>
 <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML" width="30">
