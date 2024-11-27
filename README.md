@@ -54,6 +54,10 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="30">
 &nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" width="30">
+&nbsp;
+<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" alt="Render" width="30">
+&nbsp;
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="30">
 </a>
 
 </div>
