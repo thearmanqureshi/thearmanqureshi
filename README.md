@@ -22,7 +22,7 @@
 
 #
 
-<div align="center">
+<!-- <div align="center">
 
 <h3>Softwares</h3>
 
@@ -60,4 +60,4 @@
 <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" alt="Vercel" width="30">
 </a>
 
-</div>
+</div> -->
